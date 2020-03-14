@@ -1,4 +1,4 @@
-# JS Clock
+# JS Clock ⏰
 
 Wanting to refresh my vanilla JavaScript skills, I decided to do Wesbos 30 day Vanilla JS challenge. For day 2, I built a simple clock built with HTML, CSS, and JavaScript. With the transform style property being manipulated by JavaScript to get the right timing of the clock and its position on it!
 
@@ -19,4 +19,4 @@ JS Clock was built using:
   
 ## Images of JS Clock
 
-![JS Clock]()
+![JS Clock](https://github.com/Asilo5/vanilla-js-clock-2/blob/master/Screenshot%202020-03-14%20at%2012.35.35.png)
