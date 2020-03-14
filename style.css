@@ -38,13 +38,27 @@ body {
 
 .hand {
     width: 45%;
-    height: 6px;
+    height: 8px;
     background-color: black;
     position: absolute;
     top: 50%;
     margin: 18px;
+    border-radius: 10px;
     transform-origin: 100%;
     transform: rotate(90deg);
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+}
+
+.hour-hand {
+    background-color: gray;
+    border: 3px solid black;
+}
+
+.minute-hand {
+    height: 6px;
+}
+
+.second-hand {
+    height: 2px;
 }
